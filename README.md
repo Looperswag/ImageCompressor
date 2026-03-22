@@ -38,8 +38,8 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/Looperswag/图片压缩小工具.git
-cd 图片压缩小工具
+git clone https://github.com/Looperswag/ImageCompressor.git
+cd ImageCompressor
 
 # 使用 Xcode 打开
 open ImageCompressor.xcodeproj
